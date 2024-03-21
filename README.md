@@ -1,1 +1,1 @@
-Niall, Data Scientist III, Dublin
+Niall, Data Scientist, Dublin
